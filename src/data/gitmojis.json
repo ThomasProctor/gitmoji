@@ -45,7 +45,7 @@
 		{
 			"emoji":"📝",
 			"entity":"&#x1f4dd;",
-			"code":":memo:",
+			"code":":pencil:",
 			"description":"Writing docs.",
 			"name":"memo"
 		},
